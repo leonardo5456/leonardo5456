@@ -1,7 +1,7 @@
 # Hi there 👋
 ### My name is Leonardo
 <!-- ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
-computer systems engineer (Student). I am a coding enthusiast, self-thaught.
+computer systems engineering (Student). I am a coding enthusiast, self-thaught.
 
 Skills: PYTHON / VUE JS / VUE / JS / HTML  / CSS / C++ / PROCESSING / MATLAB
 
