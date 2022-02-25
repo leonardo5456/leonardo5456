@@ -5,7 +5,7 @@ computer systems engineer (Student). I am a coding enthusiast, self-thaught.
 
 Skills: PYTHON / VUE JS / VUE / JS / HTML  / CSS / C++ / PROCESSING / MATLAB
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanAlvarez5&layout=compact)](https://github.com/AlanAlvarez5/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo5456&layout=compact)](https://github.com/leonardo5456/github-readme-stats)
 
 <!--
 **leonardo5456/leonardo5456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
