@@ -6,10 +6,10 @@ computer systems engineering (Student). I am a coding enthusiast, self-thaught.
 Skills: PYTHON / VUE JS / VUE / JS / HTML  / CSS / C++ / PROCESSING / MATLAB
 
 **Interested in:**
+- Backend and Frontened Web Development
 - Computer Vision
 - Big Data
 - Artificial Intelligence (AI)
-- Backend and Frontened Web Development
 
 
 <!-- it will be added when I have more experrience using Github -->
