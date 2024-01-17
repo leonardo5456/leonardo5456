@@ -3,10 +3,11 @@
 <!-- ![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 computer systems engineer. I am a coding enthusiast, self-thaught.
 
-Skills: PYTHON / VUE JS / VUE / JS / HTML  / CSS / C++ / PROCESSING / MATLAB
+Skills: PYTHON / DJANGO / VUE JS / VUE / JS / HTML  / CSS / C++ / JAVA / PROCESSING / MATLAB / SQL / POSTGRESQL 
 
 **Interested in:**
 - Backend and Frontened Web Development
+- Data Analysis
 - Computer Vision
 - Big Data
 - Artificial Intelligence (AI)
