@@ -6,7 +6,7 @@ Computer systems engineer driven by learning and staying up to date with the lat
 
 **Interested in:**
 - Backend and Frontend Web Development
-- CD/CI
+- CI/CD
 - Data Analysis
 - Computer Vision
 - Big Data
